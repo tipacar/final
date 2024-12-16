@@ -1,0 +1,4 @@
+0 balta
+1 kilic
+2 arbalet
+3 yay
